@@ -4,10 +4,10 @@
 29/01/2023
 
 ### Project Title
-Post your work on Github
+Post your work on Github Project
 
 ### Description
-Version Control on git commands 
+Version Control on git commands for DSND 
 ### Files used
 Bikesharey.py
 
