@@ -4,13 +4,32 @@
 29/01/2023
 
 ### Project Title
+<<<<<<< HEAD
 Post your work on Github
+||||||| 7154ff4
+Replace the Project Title
+=======
+Post your work on Github Project
+>>>>>>> documentation
 
 ### Description
+<<<<<<< HEAD
 Version Control on git 
 
+||||||| 7154ff4
+Describe what your project is about and what it does
+
+=======
+Version Control on git commands for DSND 
+>>>>>>> documentation
 ### Files used
+<<<<<<< HEAD
 Bikeshare.py
+||||||| 7154ff4
+Include the files used
+=======
+Bikesharey.py
+>>>>>>> documentation
 
 ### Credits
 https://github.com/udacity/pdsnd_github
